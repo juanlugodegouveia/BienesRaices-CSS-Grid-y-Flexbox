@@ -1,12 +1,12 @@
-# Bienes y Raices - CSS Grid y Flexbox
+# Real Estate - CSS Grid and Flexbox
 
-Diseño Web, tomando como tema sitio web de bienes y raices, creado con CSS Grid y Flexbox.
+Web Design, taking as a theme a real estate website, created with CSS Grid and Flexbox.
 
-Un diseño simple con el cual podrían guisarse para futuros proyectos, la intención es dar una idea de como podrían realizarlo y ahorrar tiempo.
+A simple design with which they could be cooked for future projects, the intention is to give an idea of how they could do it and save time.
 
-El diseño no es totalmente responsivo, por como se indica anteriormente es para tener una idea del diseño y codigo, los media queries deberan ser escritos a gusto.
+The design is not fully responsive, as indicated above is to get an idea of the design and code, the media queries should be written at ease.
 
-Vista Previa: https://juanlugodegouveia.github.io/BienesRaices-CSS-Grid-y-Flexbox/.
+Preview: https://juanlugodegouveia.github.io/BienesRaices-CSS-Grid-y-Flexbox/.
 
 ## Copyright
 
